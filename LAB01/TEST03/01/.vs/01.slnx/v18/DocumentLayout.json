@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\watan\\OneDrive\\Desktop\\MIIA0106_2025_B\\LAB01\\TEST03\\01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD3DD26F-4883-47DE-9728-A89E13B349F4}|..\\07\\07.vcxproj|C:\\Users\\watan\\OneDrive\\Desktop\\MIIA0106_2025_B\\LAB01\\TEST03\\07\\07.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF8DFF5-18A7-4B3B-848C-143FF1199A10}|..\\06\\06.vcxproj|C:\\Users\\watan\\OneDrive\\Desktop\\MIIA0106_2025_B\\LAB01\\TEST03\\06\\06.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9C9E2A-4575-4FF9-B8E4-9AE27CBC9508}|..\\05\\05.vcxproj|C:\\Users\\watan\\OneDrive\\Desktop\\MIIA0106_2025_B\\LAB01\\TEST03\\05\\05.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B84DBBC-C1AF-43AC-B666-C84F29E9C79D}|..\\04\\04.vcxproj|C:\\Users\\watan\\OneDrive\\Desktop\\MIIA0106_2025_B\\LAB01\\TEST03\\04\\04.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D83CBEF-930D-40B2-AD6F-3FE866017837}|..\\03\\03.vcxproj|C:\\Users\\watan\\OneDrive\\Desktop\\MIIA0106_2025_B\\LAB01\\TEST03\\03\\03.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F35C488-657D-4729-A6AD-3C5627277666}|..\\02\\02.vcxproj|C:\\Users\\watan\\OneDrive\\Desktop\\MIIA0106_2025_B\\LAB01\\TEST03\\02\\02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E63F5D35-C927-42CA-8B2D-D0783A9804BE}|01.vcxproj|C:\\Users\\watan\\OneDrive\\Desktop\\MIIA0106_2025_B\\LAB01\\TEST03\\01\\01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E63F5D35-C927-42CA-8B2D-D0783A9804BE}|01.vcxproj|solutionrelative:01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "07.cpp",
+              "DocumentMoniker": "C:\\Users\\watan\\OneDrive\\Desktop\\MIIA0106_2025_B\\LAB01\\TEST03\\07\\07.cpp",
+              "RelativeDocumentMoniker": "..\\07\\07.cpp",
+              "ToolTip": "C:\\Users\\watan\\OneDrive\\Desktop\\MIIA0106_2025_B\\LAB01\\TEST03\\07\\07.cpp",
+              "RelativeToolTip": "..\\07\\07.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-14T14:05:17.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "06.cpp",
+              "DocumentMoniker": "C:\\Users\\watan\\OneDrive\\Desktop\\MIIA0106_2025_B\\LAB01\\TEST03\\06\\06.cpp",
+              "RelativeDocumentMoniker": "..\\06\\06.cpp",
+              "ToolTip": "C:\\Users\\watan\\OneDrive\\Desktop\\MIIA0106_2025_B\\LAB01\\TEST03\\06\\06.cpp",
+              "RelativeToolTip": "..\\06\\06.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-14T14:01:47.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "05.cpp",
+              "DocumentMoniker": "C:\\Users\\watan\\OneDrive\\Desktop\\MIIA0106_2025_B\\LAB01\\TEST03\\05\\05.cpp",
+              "RelativeDocumentMoniker": "..\\05\\05.cpp",
+              "ToolTip": "C:\\Users\\watan\\OneDrive\\Desktop\\MIIA0106_2025_B\\LAB01\\TEST03\\05\\05.cpp",
+              "RelativeToolTip": "..\\05\\05.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-14T13:56:44.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "04.cpp",
+              "DocumentMoniker": "C:\\Users\\watan\\OneDrive\\Desktop\\MIIA0106_2025_B\\LAB01\\TEST03\\04\\04.cpp",
+              "RelativeDocumentMoniker": "..\\04\\04.cpp",
+              "ToolTip": "C:\\Users\\watan\\OneDrive\\Desktop\\MIIA0106_2025_B\\LAB01\\TEST03\\04\\04.cpp",
+              "RelativeToolTip": "..\\04\\04.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-14T13:50:52.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "03.cpp",
+              "DocumentMoniker": "C:\\Users\\watan\\OneDrive\\Desktop\\MIIA0106_2025_B\\LAB01\\TEST03\\03\\03.cpp",
+              "RelativeDocumentMoniker": "..\\03\\03.cpp",
+              "ToolTip": "C:\\Users\\watan\\OneDrive\\Desktop\\MIIA0106_2025_B\\LAB01\\TEST03\\03\\03.cpp",
+              "RelativeToolTip": "..\\03\\03.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-14T13:46:55.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "02.cpp",
+              "DocumentMoniker": "C:\\Users\\watan\\OneDrive\\Desktop\\MIIA0106_2025_B\\LAB01\\TEST03\\02\\02.cpp",
+              "RelativeDocumentMoniker": "..\\02\\02.cpp",
+              "ToolTip": "C:\\Users\\watan\\OneDrive\\Desktop\\MIIA0106_2025_B\\LAB01\\TEST03\\02\\02.cpp",
+              "RelativeToolTip": "..\\02\\02.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-14T13:39:40.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "01.cpp",
+              "DocumentMoniker": "C:\\Users\\watan\\OneDrive\\Desktop\\MIIA0106_2025_B\\LAB01\\TEST03\\01\\01.cpp",
+              "RelativeDocumentMoniker": "01.cpp",
+              "ToolTip": "C:\\Users\\watan\\OneDrive\\Desktop\\MIIA0106_2025_B\\LAB01\\TEST03\\01\\01.cpp",
+              "RelativeToolTip": "01.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-14T13:37:11.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
